@@ -86,6 +86,6 @@ We would like to thank all the contributors to the Kaggle dataset for their effo
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/vedasri10/osteoporosis-detection.git
+   git clone https://github.com/Keerthi/osteoporosis-detection.git
 
 
